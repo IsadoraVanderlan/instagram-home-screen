@@ -7,7 +7,7 @@
   <br/> <br/>
 </p>
  
- Este projeto foi feito na Plataforma Dio, tratasse da recriação da tela de login do Instagram.
+ Fiz este projeto na Plataforma Dio, tratasse da recriação da tela de login do Instagram.
  
  Desenvolvido por Gabriela.
  
