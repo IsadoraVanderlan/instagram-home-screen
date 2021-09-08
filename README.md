@@ -1,5 +1,5 @@
 # instagram-home-screen
- @Digital Innovation One - Recreating bootcamp Instagram home screen HTML Web Developer.
+ 
  
  <p align="center">
   <br/> <br/>
@@ -7,8 +7,11 @@
   <br/> <br/>
 </p>
  
- Fiz este projeto na Plataforma Dio, tratasse da recriação da tela de login do Instagram.
+@Digital Innovation One - Recreating bootcamp Instagram home screen HTML Web Developer.
+
+Instagram login screen recreation project.
+<br/>
  
- Desenvolvido por Gabriela.
+By Gabriela.
  
  
